@@ -1,0 +1,12 @@
+node_modules/
+_tmp_pack/
+PLAN.md
+_bak_server_*.js
+_bak__goal_*.json
+_goal.json
+_server*.log
+_test_run.log
+_test_rec.mp4
+_mc_record/
+*.mp4
+.DS_Store
